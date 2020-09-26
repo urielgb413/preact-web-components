@@ -1,0 +1,24 @@
+{
+  "name": "preact-web-components",
+  "version": "1.0.0",
+  "description": "Web components written in Preact, which can be used anywhere",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urielgb413/preact-web-components.git"
+  },
+  "keywords": [
+    "preact",
+    "web",
+    "components"
+  ],
+  "author": "Uriel Gonzalez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/urielgb413/preact-web-components/issues"
+  },
+  "homepage": "https://github.com/urielgb413/preact-web-components#readme"
+}
