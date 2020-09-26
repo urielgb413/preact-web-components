@@ -1,5 +1,2 @@
-import { h } from 'preact'
-
-const Button = () => <button>Test</button>
-
-export default Button
+export * from './Button'
+export * from './Loader'
