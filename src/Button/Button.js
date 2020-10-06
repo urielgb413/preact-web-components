@@ -1,7 +1,13 @@
 import { h } from 'preact'
 import register from 'preact-custom-element'
 
-const Button = ({ children }) => <button>{children}</button>
+const handleButtonClick = (e) => {
+  console.log('hello from', e.target.innerText)
+}
 
-register(Button, 'as-button', ['children'])
+const Button = ({ label = 'Default' }) => (
+  <button onClick={handleButtonClick}>{label}</button>
+)
+
+register(Button, 'as-button', ['name'])
 export default Button
