@@ -1,6 +1,7 @@
 # Preact Web Components
 
 Simple example of custom web components written in Preact which can be used anywhere
+
 Creates cjs, umd and esm modules bundles for use in any project.
 
 ## Develop
