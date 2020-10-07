@@ -1,18 +1,20 @@
-# preact-web-components
+# Preact Web Components
 
 Simple example of custom web components written in Preact which can be used anywhere
 Creates cjs, umd and esm modules bundles for use in any project.
 
-# Develop
+## Develop
 
 npm run dev
 
-# Build
+## Build
 
 npm run build
 
-# Storybook
+## Storybook
 
 npm run storybook
+
+## Coding standard
 
 [![js-standard-style](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
